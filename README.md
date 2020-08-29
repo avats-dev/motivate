@@ -8,6 +8,8 @@
 
 A simple script to print random motivational quotes. Highly influenced by linux command [fortune](https://en.wikipedia.org/wiki/Fortune_(Unix)).
 
+---
+
 ## Motivate-new
 As previous repo is not maintained now, but there are a lot of people who want to contribute, I've decided to fork and continue the project. This would be active and would be maintained by me. PRs are welcome :tada:.
 
@@ -16,6 +18,8 @@ As previous repo is not maintained now, but there are a lot of people who want t
 - Use the new [gitter community](https://gitter.im/motivate-new/community) to chat and communicate. 
 
 Thanks :heart:
+
+---
 
 ## Features
 * Colored Output
@@ -27,6 +31,8 @@ Thanks :heart:
 git
 python 3x
 ```
+
+---
 
 ## Installation
 
@@ -70,6 +76,8 @@ $ cd motivate
 $ ./UPDATE
 ```
 
+---
+
 ## Usage
 
 ```
@@ -78,6 +86,8 @@ $ motivate
 "When something is important enough, you do it even if the odds are not in your favor."
 		--Elon Musk
 ```
+
+---
 
 ## Contribution
 The most popular way to contribute is adding [new quotes](https://github.com/avats-dev/motivate/issues/1). You do it by adding next JSON file in `motivate/data/` directory. The rule is 10 quotes per file.
