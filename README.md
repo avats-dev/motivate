@@ -8,6 +8,15 @@
 
 A simple script to print random motivational quotes. Highly influenced by linux command [fortune](https://en.wikipedia.org/wiki/Fortune_(Unix)).
 
+## Motivate-new
+As previous repo is not maintained now, but there are a lot of people who want to contribute, I've decided to fork and continue the project. This would be active and would be maintained by me. PRs are welcome :tada:.
+
+- Feel free to open an issue for **bugs** or **feature request**.
+- Add more quotes referencing this [issue](https://github.com/avats-dev/motivate/issues/1).
+- Use the new [gitter community](https://gitter.im/motivate-new/community) to chat and communicate. 
+
+Thanks :heart:
+
 ## Features
 * Colored Output
 * Supports `bash` and `zsh`
