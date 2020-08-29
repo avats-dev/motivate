@@ -68,6 +68,8 @@ After doing so, I found that python 2.x is enough to run this script.
 * Add the path to your local clone to your system path.
 * Run `py -3 motivate.py` from the command prompt.
 
+---
+
 ## Update Database
 
 ```
