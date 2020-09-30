@@ -1,0 +1,43 @@
+
+{
+    "data": 
+    [
+           {
+               "quote": "Whatever you do, do it well",
+               "author":"Walt Disney"
+           },
+           {
+               "quote": "Simplicity is the ultimate sophistication",
+               "author": "Leonardo da Vinci"
+           },
+           {
+               "quote": "Be so good they can’t ignore you.",
+               "author": "Steve Martin" 
+           },
+           {
+               "quote": "There is no substitute for hard work.",
+               "author": "Thomas Edison"
+           },
+           {
+               "quote": "The time is always right to do what is right.",
+               "author": "Martin Luther King Jr"
+           },
+           {
+               "quote": "Happiness depends upon ourselves.",
+               "author": "Aristotle"
+           },
+           {
+               "quote": "I have nothing to lose but something to gain",
+               "author": "Eminem"
+           },
+           {
+               "quote": "What we think, we become.",
+               "author": "Buddha"
+           },
+           {
+               "quote": "Determine your priorities and focus on them.",
+               "author": "Eileen McDargh"
+           }
+
+    ]
+}
