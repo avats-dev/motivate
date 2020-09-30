@@ -1,0 +1,61 @@
+  
+{
+	"data":[
+		       {
+			       "author": "Anonymous"
+			       "quote": "This too shall pass."
+		       },
+           {
+		       	 "author": "Kevin Kruse"
+		       	 "quote": "Life is about making an impact, not making an income."
+	       	},
+          {
+             "author":"Amella Earhart"
+             "quote":"The most effective way to do it, is to do it."
+          },
+          { 
+             "author":"Bo Bennett"
+             "quote":"Success is not in what you have, but who you are."
+          },
+          {
+			       	"author": "Veronica Roth"
+              "quote": "Fear doesn’t shut you down; it wakes you up."
+	       	},
+          {
+              "author": "Albert Einstein"
+              "quote": "Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid."
+          },
+          {
+              "author": "Virgil"
+              "quote": "They can conquer who believe they can."
+          },
+          {
+              "author": "Walt Whitman"
+              "quote": "Keep your face always toward the sunshine - and shadows will fall behind you."
+          },
+          {
+              "author": "W. C. Fields"
+              "quote": "If at first you don't succeed, try, try again. Then quit. There's no point in being a damn fool about it."
+          },
+          {
+              "author": "W. Clement Stone"
+              "quote": "Aim for the moon. If you miss, you may hit a star."
+          },
+          {
+		      	 "author": "Abraham Lincoln"
+             "quote": "Always bear in mind that your own resolution to succeed is more important than any other."
+	       	},
+	      	{
+			       "author": "Thomas Edison"
+             "quote": "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time"
+		      },
+		      {
+			       "author": "Mark Twain"
+             "quote": "Don't go around saying the world owes you a living. The world owes you nothing. It was here first"
+	      	},
+	      	{
+			       "author": "Walt Disney"
+             "quote": "We keep moving forward, opening new doors, and doing new things, because we're curious and curiosity keeps leading us down new paths"
+	       	},
+        ]
+}
