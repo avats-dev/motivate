@@ -85,7 +85,8 @@ $ ./UPDATE
 ```
 $ motivate
 
-"When something is important enough, you do it even if the odds are not in your favor."
+"The first step is to establish that something is possible ; 
+then probability will occur ."
 		--Elon Musk
 ```
 
