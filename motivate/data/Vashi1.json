@@ -1,0 +1,27 @@
+{
+    "data" : [{
+              "quote": "Life is like going the wrong way on a moving sidewalk. Walk and you stay put. Stand still and you go backwards. To get ahead you have to hustle",
+             "author": "Farrelly Brothers- Shared by Casey Neistat"
+          },
+          {
+              "quote": "Good, better, best. Never let it rest. Until your good is better and your better is best.",
+              "author": "Tim Duncan"
+          },
+          {
+              "quote": "If you want to shine like a sun, first burn like a sun.",
+              "author": "A.P.J. Abdul Kalam"
+          },
+          {
+              "quote": "If you're going through hell, keep going.",
+              "author": "Winston Churchill"
+          },
+          {
+              "quote" : "Do What You Can't!",
+              "author": "Casey Neistat"
+          },
+          {
+              "quote": "You have enemies? Good. That means you've stood up for something, sometime in your life.",
+              "author": "Winston Churchill"
+          }
+    ]
+}
