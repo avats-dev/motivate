@@ -9,7 +9,7 @@ all_json = [f for f in os.listdir(data_dir) if os.path.isfile(os.path.join(data_
 quotes = []
 for f in all_json:
     filename = os.path.join(data_dir, f)
-    with open(filename) as json_data:
+    with open(filename, encoding='utf-8') as json_data:
         quotes += json.load(json_data)['data']
 
 uniq_authors = {quote['author'] for quote in quotes}
