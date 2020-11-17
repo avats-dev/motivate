@@ -1,5 +1,26 @@
+
 {
-    "data": [{
+	"data": [{
+			"quote": "You’re braver than you believe, and stronger than you seem, and smarter than you think.",
+			"author": "A.A. Mine"
+		},
+		{
+			"quote": "It always seems impossible until it is done.",
+			"author": "Nelson Mandela"
+		},
+		{
+			"quote": "Keep your face to the sunshine and you cannot see a shadow.",
+			"author": "Helen Keller"
+		},
+		{
+			"quote": "Once you replace negative thoughts with positive ones, you’ll start having positive results.",
+			"author": "Willie Nelson"
+		},
+		{
+			"quote": "Positive thinking will let you do everything better than negative thinking will.",
+			"author": "Zig Ziglar"
+		}
+      {
             "quote": "I don't want to see anyone. I lie in the bedroom with the curtains drawn and nothingness washing over me like a sluggish wave. Whatever is happening to me is my own fault. I have done something wrong, something so huge I can't even see it, something that's drowning me. I am inadequate and stupid, without worth. I might as well be dead.",
             "author": "Margaret Atwood, Cat's Eye"
         },
@@ -43,3 +64,4 @@
 }
             
                  
+
