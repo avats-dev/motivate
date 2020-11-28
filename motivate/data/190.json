@@ -1,43 +1,46 @@
 {
-	"data": [{
-			"quote": "We read to know that we are not alone.",
-			"author": "C. S. Lewis"
-		},
-		{
-			"quote": "You are BRAVER than you believe, and STRONGER tha you seem, and SMARTER than you think.",
-			"author": "Christopher Robin"
-		},
-		{
-			"quote": "Be yourself, everyone else is already taken.",
-			"author": "Oscar Wilde"
-		},
-		{
-			"quote": "Life is not about finding yourself. Life is about creating yourself.",
-			"author": "Lolly Daskal"
-		},
-		{
-			"quote": "It's hard to beat a person who never gives up.",
-			"author": "Babe Ruth"
-		},
-		{
-			"quote": "A man should keep his little brain attic stocked with all the furniture that he is likely to use, and the rest he can put away in the lumber-room of his library, where he can get it if he wants it.",
-			"author": "Sir Arthur Conan Doyle"
-		},
-		{
-			"quote": "It is a great thing to start life with a small number of really good books which are your very own.",
-			"author": "Sir Arthur Conan Doyle"
-		},
-		{
-			"quote": "Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.",
-			"author": "Sir Arthur Conan Doyle"
-		},
-		{
-			"quote": "You see, but you do not observe.",
-			"author": "Sir Arthur Conan Doyle"
-		},
-		{
-			"quote": "If you quit once, it becomes a Habit. NEVER QUIT.",
-			"author": "Michael Jordan"
-		}
-	]
+
+    "data": [
+        {
+            "quote": "The price of freedom is high. It always has been.",
+            "author": "Steve Rogers, CAPTAIN AMERICA: THE WINTER SOLDIER"
+        },
+       {
+            "quote": "I don’t like bullies. I don’t care where they’re from.",
+            "author": "Steve Rogers, CAPTAIN AMERICA: THE WINTER SOLDIER"
+        },
+         {
+            "quote": "But in times of crisis the wise build bridges, while the foolish build barriers.",
+            "author": "T’Challa, BLACK PANTHER"
+        }, 
+      {
+            "quote": "I shouldn’t be alive, unless it was for a reason, I know what I have to do, and I know it is right.",
+            "author": "Tony Stark, IRON MAN"
+        },
+      {
+            "quote": "It’s not enough to be against something. You have to be for something better.",
+            "author": "Tony Stark, IRON MAN"
+        },
+      {
+            "quote": "It’s not about how much we lost; it’s about how much we have left.",
+            "author": "Tony Stark, IRON MAN"
+        },
+      {
+            "quote": "Part of the journey is the end.",
+            "author": "Tony Stark, IRON MAN"
+        },
+      {
+            "quote": "I choose to run towards my problems, and not away from them. Because’s that– because’s that what heroes do.",
+            "author": "Thor, THOR: RAGNAROK"
+        },
+      {
+            "quote": "It's an imperfect world but it's the only one we got.",
+            "author": "Tony Stark, IRON MAN"
+        },
+      {
+            "quote": "Everyone fails at who they are supposed to be, Thor. The measure of a person, of a hero, is how well they succeed at being who they are.",
+            "author": "Frigga , Mother of thor , Queen of Asgard"
+        },
+    ]
+
 }
