@@ -1,0 +1,69 @@
+{
+    "data": [
+        {
+            "author": "Cristiano Ronaldo",
+            "quote" : "If you don’t believe you are the best, then you will never achieve all that you are capable of."
+        },
+        {
+            "author": "Bob Marley",
+             "quote" : "The truth is , everyone is going to hurt you. You just got to find the ones worth suffering for."
+
+        },
+        {
+            "author" : "Brian Tracy",
+            "quote": "Fake It Until You Make It! Act As If You Had All The Confidence You Require Until It Becomes Your Reality."
+        },
+        {
+            "author" : "Brian Tracy",
+            "quote" : "Integrity Is The Most Valuable And Respected Quality Of Leadership. Always Keep Your Word."
+        },
+        {
+            "author": "Plato" ,
+            "quote" : "Knowledge without justice ought to be called cunning rather than wisdom."
+        },
+        {
+            "author":"Plato" ,
+            "quote" : "An empty vessel makes the loudest sound, so they that have the least wit are the greatest babblers."
+        },
+        {
+            "author": "Master Oogway" ,
+            "quote" : "There is always something more to learn. Even for a master."
+            
+        },
+        {
+            "author": "Master Oogway",
+            "quote" : "Yesterday is history, tomorrow is a mystery, and today is a gift. That’s why they call it the present."
+        },
+        {
+            "author": "Vince Lombardi",
+            "quote":"Winners never quit and quitters never win."
+        },
+        {
+            "author": "Jackie Chan",
+            "quote":"Life will knock us down, but we can choose to get back up."
+        },
+        {
+            "author": "Proverbs",
+            "quote" : "Better to die on your feet than live on your knees."
+        },
+        {
+            "author": "Robert Frost",
+            "quote" : "In three words I can sum up everything I've learned about life: it goes on"
+        },
+        {
+            "author": "Robert Downy jr.",
+            "quote" :"Remember that just because you hit bottom doesn’t mean you have to stay there."
+        },
+        {
+            "author":"Dr. A.P.J Abdul Kalam",
+            "quote" : "If you want to shine like a sun, first burn like a sun."
+        },
+        {
+            "author" : "Mark Twain",
+            "quote" : "To succeed in life, you need two things: ignorance and confidence"
+        }
+
+        
+    ]
+
+}
